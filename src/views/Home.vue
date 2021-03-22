@@ -3,7 +3,7 @@
     <!-- 头部区 -->
     <el-header>
       <div>
-        <img src="../assets/logo.png" alt="" title="LOGO">
+        <!-- <img src="../assets/logo.png" alt="" title="LOGO"> -->
         <h3>后台管理</h3>
       </div>
       <el-button type="info" @click="logout">退出</el-button>
